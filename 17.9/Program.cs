@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-Console.WriteLine("dkjhg");
+Console.WriteLine("Text has a meaning");
 
-Console.WriteLine("jhgdf");
+Console.WriteLine("Text has a meaning");
